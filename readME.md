@@ -50,7 +50,7 @@ Replace **`<username>`**, **`<password>`**, and **`<dbname>`** with your MongoDB
 
 3. Run the ETL pipeline:
 
-    `python etl.py`
+    `python cat_rescue_etl.py`
    
 The script will perform the following tasks:
 
@@ -113,7 +113,7 @@ Substitua **`<username>`**, **`<password>`**, e **`<dbname>`** por suas credenci
 
 2. Execute a pipeline ETL:
 
-    `python etl.py`
+    `python cat_rescue_etl.py`
 
 O script realizará as seguintes tarefas:
 
