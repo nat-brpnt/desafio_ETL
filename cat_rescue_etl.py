@@ -5,13 +5,16 @@ import os
 from dotenv import load_dotenv
 from pymongo import MongoClient
 
+# Define the CSV file path as a variable
+csv_file_path = 'C:\\Users\\natty\\Desktop\\cats.csv'
+
 # Load config from a .env file:
 load_dotenv()
 MONGODB_URI = os.environ['MONGODB_URI']
 
 # Extraction
 # Open the CSV file for reading
-with open('C:\\Users\\natty\\Desktop\\cats.csv', 'r') as csv_file:
+with open(csv_file_path, 'r') as csv_file:
     # Create a CSV reader object
     csv_reader = csv.DictReader(csv_file)
 

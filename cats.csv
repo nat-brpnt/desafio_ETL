@@ -1,0 +1,7 @@
+id,name,estimate_age,gender,fur_color,eye_color,vaccices,fiv_felv,spayed_neutered,rescue_date,adopted,adoption_date,adopters_name
+1,Oreo,2,M,Blackandwhite,Green,Rabbies,Negative,TRUE,14/01/2023,FALSE,,
+2,Waffles,1,M,Orange,Yellow,Rabbies,Negative,TRUE,14/09/2023,FALSE,,
+3,Shoyu,5,M,Black,Green,Rabbies-V5,Positive-FIV,TRUE,24/04/2022,FALSE,,
+4,Latte,3,F,Colorpoint,Blue,Rabbies-V5,Negative,FALSE,30/12/2022,FALSE,,
+5,Brie,3,F,FlamePoint,Blue,Rabbies-V5,Negative,FALSE,30/12/2022,FALSE,,
+6,Snickers,7,M,Tabby,Green,Rabbies-V5,Positive-Felv,TRUE,21/02/2021,FALSE,,
